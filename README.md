@@ -12,3 +12,5 @@ The 47th is the jaccard distance
 The 48th is the time varying access count
 
 The 49th is the label, 0 represents non=cdn, 1 represents cdn.
+
+The data is from China Telecom and the label comes from CDNPlanet in 2023/3/17.
